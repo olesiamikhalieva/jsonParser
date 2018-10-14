@@ -2,104 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f36fcd89-390f-47d0-8bd8-3de8fe99277d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/controller/MyRestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/CustomJacksonAnnotation/BeanWithCustomAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/CustomJacksonAnnotation/CustomAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/DisableJacksonAnnotation/MyBean6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JacksonInject/BeanWithInject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JacksonMixInAnnotations/Item5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JacksonMixInAnnotations/MyMixInForIgnoreType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonAnyGetter/ExtendableBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonAnySetter/ExtendableBean2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonAutoDetect/PrivateBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonCreater/BeanWithCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonDeserialize/CustomDateDeserializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonDeserialize/Event2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonFilter/BeanWithFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonFormat/Event5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonGetter_JsonPropertyOrder/MyBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonIdentityInfo/ItemWithIdentity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonIdentityInfo/UserWithIdentity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonIgnoreProperties_JsonIgnore/BeanWithIgnore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonIgnoreType/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonInclude/MyBean3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonManagedReference_JsonBackReference/ItemWithRef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonManagedReference_JsonBackReference/UserWithRef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonProperty/MyBean5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonRawValue/RawBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonRootName_JsonRootInfo/UserWithRoot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonSerialize/CustomDateSerializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonSerialize/Event.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonSetter/MyBean2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonUnwrapped/UnwrappedUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonValue/TypeEnumWithValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonView/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonView/Views.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/TypeHandlingAnnotations/Zoo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/json/1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/json/2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/json/example.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/parser/MyGsonParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/parser/MyJacksonParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customjsonparser/src/test/java/com/json/parser/customjsonparser/AnnotationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_jasper_8_5_34.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_34.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jdt_ecj_3_12_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/controller/MyRestController3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/json/3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/parser/MyGsonParser3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/parser/MyJacksonParser3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/parser/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customjsonparser/src/test/java/com/json/parser/customjsonparser/GsonParserTest3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bird_farm/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bird_farm/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bird_farm/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bird_farm/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bird_farm/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bird_farm/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bird_farm/src/main/java/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bird_farm/src/main/java/PulsarJsonData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bird_farm/src/main/java/com/ua/bird/farm/bird_farm/BirdFarmApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bird_farm/src/main/java/com/ua/bird/farm/bird_farm/BirdIncubator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bird_farm/src/main/java/com/ua/bird/farm/bird_farm/controller/BirdController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bird_farm/src/main/java/com/ua/bird/farm/bird_farm/controller/CustomJsonController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bird_farm/src/main/java/com/ua/bird/farm/bird_farm/dao/BirdEntity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bird_farm/src/main/java/com/ua/bird/farm/bird_farm/dao/repository/BirdRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bird_farm/src/main/java/com/ua/bird/farm/bird_farm/dto/BirdDto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bird_farm/src/main/java/com/ua/bird/farm/bird_farm/dto/BirdListDto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bird_farm/src/main/java/com/ua/bird/farm/bird_farm/exception/BirdNotFoundException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bird_farm/src/main/java/com/ua/bird/farm/bird_farm/services/BirdService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bird_farm/src/main/java/com/ua/bird/farm/bird_farm/services/BirdServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bird_farm/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bird_farm/src/test/java/com/ua/bird/farm/bird_farm/BirdFarmApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customjsonparser/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/customjsonparser/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/GsonParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/parser/GsonParser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/TestJson.java" beforeDir="false" afterPath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/json/TestJson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/controller/GsonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/controller/GsonController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customjsonparser/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/customjsonparser/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customjsonparser/src/test/java/com/json/parser/customjsonparser/GsonParserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/customjsonparser/src/test/java/com/json/parser/customjsonparser/GsonParserTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/src/main/java/com/ua/store/store/Dto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/src/main/java/com/ua/store/store/StoreApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/src/main/java/com/ua/store/store/controller/MagasController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/src/main/java/com/ua/store/store/controller/MagazineController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/src/main/java/com/ua/store/store/dto/BirdDto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/src/main/java/com/ua/store/store/dto/BirdListDto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/src/main/java/com/ua/store/store/services/GetBirdFromFarmServices.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/src/main/webapp/WEB-INF/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/src/main/webapp/WEB-INF/magaz.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/src/test/java/com/ua/store/store/StoreApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/controller/MyRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/controller/MyRestController2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/parser/MyGsonParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/parser/MyGsonParser2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/parser/MyJacksonParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/parser/MyJacksonParser2.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bird_farm/target/" />
     <ignored path="$PROJECT_DIR$/store/target/" />
@@ -223,9 +136,109 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1532848091">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="60" />
+          <entry key="java" value="33" />
+          <entry key="json" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="60" />
+          <entry key="JAVA" value="33" />
+          <entry key="JSON" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="4" />
+          <entry key="java" value="2821" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2821" />
+          <entry key="PLAIN_TEXT" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/parser/MyJacksonParser3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/parser/MyJacksonParser2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/parser/MyGsonParser3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="474">
+              <caret line="136" column="9" lean-forward="true" selection-start-line="136" selection-start-column="9" selection-end-line="136" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#829#830#0" expanded="true" />
+                <element signature="e#882#883#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/controller/MyRestController3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="36" column="21" lean-forward="true" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/parser/MyGsonParser2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1496">
+              <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/parser/GsonParser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="128" column="41" lean-forward="true" selection-start-line="127" selection-start-column="7" selection-end-line="129" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -235,20 +248,17 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>system</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/Controller.java" />
-        <option value="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/exampleJacksonAnnotation/Controller.java" />
-        <option value="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/exampleJacksonAnnotation/exampleJacksonApplication.java" />
-        <option value="$PROJECT_DIR$/customjsonparser/src/test/java/com/json/parser/customjsonparser/AnnotationText.java" />
-        <option value="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/exampleJacksonAnnotation/ExtendableBean.java" />
-        <option value="$PROJECT_DIR$/customjsonparser/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/customjsonparser/pom.xml" />
-        <option value="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/MyBean.java" />
         <option value="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/RawBean.java" />
         <option value="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/TypeEnumValue.java" />
         <option value="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/TypeEnumWithValue.java" />
@@ -292,6 +302,14 @@
         <option value="$PROJECT_DIR$/customjsonparser/src/test/java/com/json/parser/customjsonparser/AnnotationTest.java" />
         <option value="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/DisableJacksonAnnotation/MyBean6.java" />
         <option value="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JacksonMixInAnnotations/MyMixInForIgnoreType.java" />
+        <option value="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/json/3.json" />
+        <option value="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/controller/MyRestController2.java" />
+        <option value="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/parser/MyJacksonParser3.java" />
+        <option value="$PROJECT_DIR$/customjsonparser/src/test/java/com/json/parser/customjsonparser/GsonParserTest3.java" />
+        <option value="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/parser/MyGsonParser2.java" />
+        <option value="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/parser/Test.java" />
+        <option value="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/controller/MyRestController3.java" />
+        <option value="$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/parser/MyGsonParser3.java" />
       </list>
     </option>
   </component>
@@ -335,72 +353,62 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="superStore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="superStore" type="462c0819:PsiDirectoryNode" />
+              <item name="jsonParser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsonParser" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="superStore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="superStore" type="462c0819:PsiDirectoryNode" />
+              <item name="jsonParser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsonParser" type="462c0819:PsiDirectoryNode" />
               <item name="customjsonparser" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="superStore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="superStore" type="462c0819:PsiDirectoryNode" />
-              <item name="customjsonparser" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="superStore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="superStore" type="462c0819:PsiDirectoryNode" />
+              <item name="jsonParser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsonParser" type="462c0819:PsiDirectoryNode" />
               <item name="customjsonparser" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="superStore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="superStore" type="462c0819:PsiDirectoryNode" />
+              <item name="jsonParser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsonParser" type="462c0819:PsiDirectoryNode" />
               <item name="customjsonparser" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="superStore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="superStore" type="462c0819:PsiDirectoryNode" />
+              <item name="jsonParser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsonParser" type="462c0819:PsiDirectoryNode" />
               <item name="customjsonparser" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="superStore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="superStore" type="462c0819:PsiDirectoryNode" />
+              <item name="jsonParser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsonParser" type="462c0819:PsiDirectoryNode" />
               <item name="customjsonparser" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="json" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="superStore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="superStore" type="462c0819:PsiDirectoryNode" />
+              <item name="jsonParser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsonParser" type="462c0819:PsiDirectoryNode" />
               <item name="customjsonparser" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="json" type="462c0819:PsiDirectoryNode" />
-              <item name="parser" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="superStore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="superStore" type="462c0819:PsiDirectoryNode" />
+              <item name="jsonParser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsonParser" type="462c0819:PsiDirectoryNode" />
               <item name="customjsonparser" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -408,11 +416,22 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="json" type="462c0819:PsiDirectoryNode" />
               <item name="parser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jsonParser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsonParser" type="462c0819:PsiDirectoryNode" />
+              <item name="customjsonparser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="json" type="462c0819:PsiDirectoryNode" />
+              <item name="parser" type="462c0819:PsiDirectoryNode" />
               <item name="customjsonparser" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="superStore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="superStore" type="462c0819:PsiDirectoryNode" />
+              <item name="jsonParser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsonParser" type="462c0819:PsiDirectoryNode" />
               <item name="customjsonparser" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -424,19 +443,93 @@
               <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="superStore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="superStore" type="462c0819:PsiDirectoryNode" />
+              <item name="jsonParser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsonParser" type="462c0819:PsiDirectoryNode" />
               <item name="customjsonparser" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="json" type="462c0819:PsiDirectoryNode" />
+              <item name="parser" type="462c0819:PsiDirectoryNode" />
+              <item name="customjsonparser" type="462c0819:PsiDirectoryNode" />
+              <item name="dto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jsonParser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsonParser" type="462c0819:PsiDirectoryNode" />
+              <item name="customjsonparser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="json" type="462c0819:PsiDirectoryNode" />
+              <item name="parser" type="462c0819:PsiDirectoryNode" />
+              <item name="customjsonparser" type="462c0819:PsiDirectoryNode" />
+              <item name="parser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jsonParser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsonParser" type="462c0819:PsiDirectoryNode" />
+              <item name="customjsonparser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jsonParser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsonParser" type="462c0819:PsiDirectoryNode" />
+              <item name="customjsonparser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jsonParser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsonParser" type="462c0819:PsiDirectoryNode" />
+              <item name="customjsonparser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jsonParser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsonParser" type="462c0819:PsiDirectoryNode" />
+              <item name="customjsonparser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="json" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jsonParser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsonParser" type="462c0819:PsiDirectoryNode" />
+              <item name="customjsonparser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="json" type="462c0819:PsiDirectoryNode" />
+              <item name="parser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jsonParser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsonParser" type="462c0819:PsiDirectoryNode" />
+              <item name="customjsonparser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="json" type="462c0819:PsiDirectoryNode" />
+              <item name="parser" type="462c0819:PsiDirectoryNode" />
+              <item name="customjsonparser" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -446,9 +539,10 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/Java/dowloadProject/jsonParser/customjsonparser/src/main/java/com/json/parser/customjsonparser/parser/MyGsonParser2.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538931152952" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539542939948" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
@@ -486,7 +580,35 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AnnotationTest.whenDisablingAllAnnotations_thenAllDisabled">
+  <component name="RunManager" selected="Application.MyGsonParser3">
+    <configuration name="MyGsonParser3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.json.parser.customjsonparser.parser.MyGsonParser3" />
+      <module name="customjsonparser" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.json.parser.customjsonparser.parser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.json.parser.customjsonparser.parser.Test" />
+      <module name="customjsonparser" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.json.parser.customjsonparser.parser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AnnotationTest.whenDisablingAllAnnotations_thenAllDisabled" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="customjsonparser" />
       <extension name="coverage">
@@ -503,7 +625,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AnnotationTest.whenSerializingUsingCustomAnnotation_thenCorrect" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GsonParserTest3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="customjsonparser" />
       <extension name="coverage">
         <pattern>
@@ -512,75 +634,49 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.json.parser.customjsonparser" />
-      <option name="MAIN_CLASS_NAME" value="com.json.parser.customjsonparser.AnnotationTest" />
-      <option name="METHOD_NAME" value="whenSerializingUsingCustomAnnotation_thenCorrect" />
+      <option name="MAIN_CLASS_NAME" value="com.json.parser.customjsonparser.GsonParserTest3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GsonParserTest3.testParser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="customjsonparser" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.json.parser.customjsonparser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.json.parser.customjsonparser" />
+      <option name="MAIN_CLASS_NAME" value="com.json.parser.customjsonparser.GsonParserTest3" />
+      <option name="METHOD_NAME" value="testParser" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AnnotationTest.whenSerializingUsingJsonFilter_thenCorrect" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CustomjsonparserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="customjsonparser" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.json.parser.customjsonparser.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.json.parser.customjsonparser" />
-      <option name="MAIN_CLASS_NAME" value="com.json.parser.customjsonparser.AnnotationTest" />
-      <option name="METHOD_NAME" value="whenSerializingUsingJsonFilter_thenCorrect" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AnnotationTest.whenSerializingUsingJsonIdentityInfo_thenCorrect" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="customjsonparser" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.json.parser.customjsonparser.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.json.parser.customjsonparser" />
-      <option name="MAIN_CLASS_NAME" value="com.json.parser.customjsonparser.AnnotationTest" />
-      <option name="METHOD_NAME" value="whenSerializingUsingJsonIdentityInfo_thenCorrect" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AnnotationTest.whenSerializingUsingMixInAnnotation_thenCorrect" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="customjsonparser" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.json.parser.customjsonparser.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.json.parser.customjsonparser" />
-      <option name="MAIN_CLASS_NAME" value="com.json.parser.customjsonparser.AnnotationTest" />
-      <option name="METHOD_NAME" value="whenSerializingUsingMixInAnnotation_thenCorrect" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.json.parser.customjsonparser.CustomjsonparserApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.AnnotationTest.whenSerializingUsingJsonIdentityInfo_thenCorrect" />
-      <item itemvalue="JUnit.AnnotationTest.whenSerializingUsingJsonFilter_thenCorrect" />
-      <item itemvalue="JUnit.AnnotationTest.whenSerializingUsingCustomAnnotation_thenCorrect" />
-      <item itemvalue="JUnit.AnnotationTest.whenSerializingUsingMixInAnnotation_thenCorrect" />
+      <item itemvalue="Spring Boot.CustomjsonparserApplication" />
+      <item itemvalue="Application.MyGsonParser3" />
       <item itemvalue="JUnit.AnnotationTest.whenDisablingAllAnnotations_thenAllDisabled" />
+      <item itemvalue="JUnit.GsonParserTest3.testParser" />
+      <item itemvalue="JUnit.GsonParserTest3" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyGsonParser3" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="JUnit.GsonParserTest3.testParser" />
+        <item itemvalue="JUnit.GsonParserTest3" />
         <item itemvalue="JUnit.AnnotationTest.whenDisablingAllAnnotations_thenAllDisabled" />
-        <item itemvalue="JUnit.AnnotationTest.whenSerializingUsingMixInAnnotation_thenCorrect" />
-        <item itemvalue="JUnit.AnnotationTest.whenSerializingUsingCustomAnnotation_thenCorrect" />
-        <item itemvalue="JUnit.AnnotationTest.whenSerializingUsingJsonFilter_thenCorrect" />
-        <item itemvalue="JUnit.AnnotationTest.whenSerializingUsingJsonIdentityInfo_thenCorrect" />
       </list>
     </recent_temporary>
   </component>
@@ -599,48 +695,50 @@
       <workItem from="1538852521009" duration="2700000" />
       <workItem from="1538894848241" duration="11923000" />
       <workItem from="1538926796220" duration="4336000" />
+      <workItem from="1539498707595" duration="25797000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AnnotationTest_whenSerializingUsingJsonFormat_thenCorrect - 2018.10.07 at 19h 18m 39s.xml">
-      <configuration name="AnnotationTest.whenSerializingUsingJsonFormat_thenCorrect" configurationId="JUnit" />
+    <history-entry file="GsonParserTest3_testParser - 2018.10.14 at 10h 17m 15s.xml">
+      <configuration name="GsonParserTest3.testParser" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AnnotationTest_whenSerializingUsingJsonUnwrapped_thenCorrect - 2018.10.07 at 19h 20m 54s.xml">
-      <configuration name="AnnotationTest.whenSerializingUsingJsonUnwrapped_thenCorrect" configurationId="JUnit" />
+    <history-entry file="GsonParserTest3_testParser - 2018.10.14 at 10h 19m 03s.xml">
+      <configuration name="GsonParserTest3.testParser" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AnnotationTest_whenSerializingUsingJsonView_thenCorrect - 2018.10.07 at 19h 24m 17s.xml">
-      <configuration name="AnnotationTest.whenSerializingUsingJsonView_thenCorrect" configurationId="JUnit" />
+    <history-entry file="GsonParserTest3_testParser - 2018.10.14 at 10h 19m 25s.xml">
+      <configuration name="GsonParserTest3.testParser" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AnnotationTest_whenSerializingUsingJacksonReferenceAnnotation_thenCorrect - 2018.10.07 at 19h 30m 05s.xml">
-      <configuration name="AnnotationTest.whenSerializingUsingJacksonReferenceAnnotation_thenCorrect" configurationId="JUnit" />
+    <history-entry file="GsonParserTest3_testParser - 2018.10.14 at 10h 20m 54s.xml">
+      <configuration name="GsonParserTest3.testParser" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AnnotationTest_whenSerializingUsingJsonIdentityInfo_thenCorrect - 2018.10.07 at 19h 34m 02s.xml">
-      <configuration name="AnnotationTest.whenSerializingUsingJsonIdentityInfo_thenCorrect" configurationId="JUnit" />
+    <history-entry file="GsonParserTest3 - 2018.10.14 at 11h 26m 01s.xml">
+      <configuration name="GsonParserTest3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AnnotationTest_whenSerializingUsingJsonFilter_thenCorrect - 2018.10.07 at 19h 36m 33s.xml">
-      <configuration name="AnnotationTest.whenSerializingUsingJsonFilter_thenCorrect" configurationId="JUnit" />
+    <history-entry file="GsonParserTest3_testParser - 2018.10.14 at 11h 37m 30s.xml">
+      <configuration name="GsonParserTest3.testParser" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AnnotationTest_whenSerializingUsingCustomAnnotation_thenCorrect - 2018.10.07 at 19h 40m 08s.xml">
-      <configuration name="AnnotationTest.whenSerializingUsingCustomAnnotation_thenCorrect" configurationId="JUnit" />
+    <history-entry file="GsonParserTest3_testParser - 2018.10.14 at 11h 41m 13s.xml">
+      <configuration name="GsonParserTest3.testParser" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AnnotationTest_whenSerializingUsingMixInAnnotation_thenCorrect - 2018.10.07 at 19h 44m 44s.xml">
-      <configuration name="AnnotationTest.whenSerializingUsingMixInAnnotation_thenCorrect" configurationId="JUnit" />
+    <history-entry file="GsonParserTest3_testParser - 2018.10.14 at 12h 53m 11s.xml">
+      <configuration name="GsonParserTest3.testParser" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AnnotationTest_whenSerializingUsingMixInAnnotation_thenCorrect - 2018.10.07 at 19h 48m 33s.xml">
-      <configuration name="AnnotationTest.whenSerializingUsingMixInAnnotation_thenCorrect" configurationId="JUnit" />
+    <history-entry file="GsonParserTest3_testParser - 2018.10.14 at 13h 00m 46s.xml">
+      <configuration name="GsonParserTest3.testParser" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AnnotationTest_whenDisablingAllAnnotations_thenAllDisabled - 2018.10.07 at 19h 51m 08s.xml">
-      <configuration name="AnnotationTest.whenDisablingAllAnnotations_thenAllDisabled" configurationId="JUnit" />
+    <history-entry file="GsonParserTest3_testParser - 2018.10.14 at 13h 01m 52s.xml">
+      <configuration name="GsonParserTest3.testParser" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19621000" />
+    <option name="totallyTimeSpent" value="45418000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2923077" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29149798" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -650,8 +748,8 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3291815" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3291815" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29003558" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.37366548" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -663,10 +761,10 @@
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.3291815" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.24939272" />
       <window_info anchor="right" id="Maven Projects" order="5" weight="0.32955465" />
       <window_info anchor="right" id="Database" order="6" weight="0.32955465" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
@@ -731,60 +829,62 @@
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/parser/MyGsonParser3.java</url>
+          <line>34</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/parser/MyGsonParser3.java</url>
+          <line>143</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
       </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
     </breakpoint-manager>
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/json/example.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/json/2.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/parser/GsonParser.java">
+    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JacksonMixInAnnotations/MyMixInForIgnoreType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        <state relative-caret-position="85">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/parser/MyJacksonParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/controller/MyRestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="29" column="38" lean-forward="true" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/parser/MyGsonParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47">
-          <caret line="13" selection-start-line="13" selection-end-line="14" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.jar!/com/fasterxml/jackson/annotation/JacksonAnnotation.class">
+    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/json/3.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <caret line="9" lean-forward="true" selection-end-line="11" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.jar!/com/fasterxml/jackson/annotation/JsonAnyGetter.class">
+    <entry file="file://$PROJECT_DIR$/customjsonparser/src/test/java/com/json/parser/customjsonparser/AnnotationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        <state relative-caret-position="263">
+          <caret line="436" column="48" lean-forward="true" selection-start-line="436" selection-start-column="8" selection-end-line="436" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/exampleJacksonAnnotation/exampleJacksonApplication.java" />
-    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/exampleJacksonAnnotation/Controller.java" />
+    <entry file="file://$PROJECT_DIR$/customjsonparser/src/test/java/com/json/parser/customjsonparser/GsonParserTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="33" column="61" lean-forward="true" selection-start-line="33" selection-start-column="61" selection-end-line="33" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/controller/GsonController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="211">
@@ -792,385 +892,392 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/customjsonparser/src/test/java/com/json/parser/customjsonparser/CustomjsonparserApplicationTests.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runner/JUnitCore.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="104">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/64a73a49-a9a9-477b-9eac-fb8f657f078e/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runner/notification/Failure.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runner/notification/RunNotifier.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+          <folding>
+            <element signature="e#2379#2380#0" expanded="true" />
+            <element signature="e#4424#4425#0" expanded="true" />
+            <element signature="e#4488#4489#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/EachTestNotifier.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/BlockJUnit4ClassRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="e#2155#2156#0" expanded="true" />
+            <element signature="e#6484#6648#0" expanded="true" />
+            <element signature="e#6647#6648#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customjsonparser/src/test/java/com/json/parser/customjsonparser/GsonParserTest3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/CustomjsonparserApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="85">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/customjsonparser/pom.xml">
+    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/controller/MyRestController2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        <state relative-caret-position="304">
+          <caret line="41" column="48" lean-forward="true" selection-start-line="41" selection-start-column="48" selection-end-line="41" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/resources/application.properties">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/customjsonparser/src/test/java/com/json/parser/customjsonparser/GsonParserTest.java">
+    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/parser/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="85">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonRootName_JsonRootInfo/UserWithRoot.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/TreeMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+        <state relative-caret-position="50">
+          <caret line="1241" selection-start-line="1241" selection-end-line="1241" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#42686#42687#0" expanded="true" />
+            <element signature="e#42729#42730#0" expanded="true" />
+            <element signature="e#44165#44166#0" expanded="true" />
+            <element signature="e#44207#44208#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonSerialize/Event.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonSerialize/CustomDateSerializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonAnyGetter/ExtendableBean.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.9.RELEASE/spring-web-5.0.9.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="109">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <caret line="127" selection-start-line="127" selection-end-line="127" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.9.RELEASE/spring-web-5.0.9.RELEASE.jar!/org/springframework/web/context/request/ServletRequestAttributes.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="213" selection-start-line="213" selection-end-line="213" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.9.RELEASE/spring-web-5.0.9.RELEASE.jar!/org/springframework/web/context/request/AbstractRequestAttributes.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.9.RELEASE/spring-webmvc-5.0.9.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="570" selection-start-line="570" selection-end-line="570" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.34/tomcat-embed-core-8.5.34.jar!/org/apache/catalina/core/StandardContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="593" selection-start-line="593" selection-end-line="593" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#430#431#0" expanded="true" />
-            <element signature="e#463#464#0" expanded="true" />
-            <element signature="e#505#506#0" expanded="true" />
-            <element signature="e#537#538#0" expanded="true" />
-            <element signature="e#588#589#0" expanded="true" />
-            <element signature="e#630#631#0" expanded="true" />
+            <element signature="e#23110#23111#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonGetter_JsonPropertyOrder/MyBean.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.34/tomcat-embed-core-8.5.34.jar!/org/apache/catalina/connector/Request.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        <state relative-caret-position="92">
+          <caret line="863" selection-start-line="863" selection-end-line="863" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#12556#12557#0" expanded="true" />
+            <element signature="e#12603#12604#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonRawValue/RawBean.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.34/tomcat-embed-core-8.5.34.jar!/org/apache/catalina/connector/RequestFacade.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        <state relative-caret-position="194">
+          <caret line="213" selection-start-line="213" selection-end-line="213" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonValue/TypeEnumWithValue.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.5.RELEASE/spring-boot-2.0.5.RELEASE.jar!/org/springframework/boot/web/servlet/error/DefaultErrorAttributes.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="90" selection-start-line="4" selection-start-column="90" selection-end-line="4" selection-end-column="90" />
+        <state relative-caret-position="126">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonCreater/BeanWithCreator.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.9.RELEASE/spring-web-5.0.9.RELEASE.jar!/org/springframework/web/method/HandlerMethod.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="56" lean-forward="true" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JacksonInject/BeanWithInject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonSetter/MyBean2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="211">
+          <caret line="143" selection-start-line="143" selection-end-line="143" />
           <folding>
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
-            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#5655#5656#0" expanded="true" />
+            <element signature="e#5687#5688#0" expanded="true" />
+            <element signature="e#5827#5828#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonAnySetter/ExtendableBean2.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.9.RELEASE/spring-core-5.0.9.RELEASE.jar!/org/springframework/util/ConcurrentReferenceHashMap.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="18" column="59" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonDeserialize/Event2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        <state relative-caret-position="126">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#1601#1602#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonDeserialize/CustomDateDeserializer.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.9.RELEASE/spring-web-5.0.9.RELEASE.jar!/org/springframework/web/method/annotation/ExceptionHandlerMethodResolver.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+        <state relative-caret-position="92">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.9.RELEASE/spring-webmvc-5.0.9.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/ExceptionHandlerExceptionResolver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="251" selection-start-line="251" selection-end-line="251" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.9.RELEASE/spring-webmvc-5.0.9.RELEASE.jar!/org/springframework/web/servlet/handler/AbstractHandlerMethodExceptionResolver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.9.RELEASE/spring-webmvc-5.0.9.RELEASE.jar!/org/springframework/web/servlet/handler/AbstractHandlerExceptionResolver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.9.RELEASE/spring-webmvc-5.0.9.RELEASE.jar!/org/springframework/web/servlet/handler/HandlerExceptionResolverComposite.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.9.RELEASE/spring-core-5.0.9.RELEASE.jar!/org/springframework/util/ObjectUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#1842#1843#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonIgnoreProperties_JsonIgnore/BeanWithIgnore.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.9.RELEASE/spring-webmvc-5.0.9.RELEASE.jar!/org/springframework/web/servlet/HandlerExecutionChain.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        <state relative-caret-position="194">
+          <caret line="114" selection-start-line="114" selection-end-line="114" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#1669#1670#0" expanded="true" />
+            <element signature="e#1704#1705#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonInclude/MyBean3.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.9.RELEASE/spring-webmvc-5.0.9.RELEASE.jar!/org/springframework/web/servlet/handler/HandlerInterceptorAdapter.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="126">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonAutoDetect/PrivateBean.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.9.RELEASE/spring-webmvc-5.0.9.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="108" selection-start-line="6" selection-start-column="108" selection-end-line="6" selection-end-column="108" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="109">
+          <caret line="742" selection-start-line="742" selection-end-line="742" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/TypeHandlingAnnotations/Zoo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#641#642#0" expanded="true" />
-            <element signature="e#677#678#0" expanded="true" />
-            <element signature="e#672#673#0" expanded="true" />
-            <element signature="e#716#717#0" expanded="true" />
-            <element signature="e#752#753#0" expanded="true" />
-            <element signature="e#935#936#0" expanded="true" />
-            <element signature="e#975#976#0" expanded="true" />
-            <element signature="e#1234#1235#0" expanded="true" />
-            <element signature="e#1269#1270#0" expanded="true" />
-            <element signature="e#1437#1438#0" expanded="true" />
-            <element signature="e#1472#1473#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonProperty/MyBean5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
-            <element signature="e#297#298#0" expanded="true" />
-            <element signature="e#365#366#0" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonFormat/Event5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonUnwrapped/UnwrappedUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonView/Views.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonView/Item.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonManagedReference_JsonBackReference/ItemWithRef.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonManagedReference_JsonBackReference/UserWithRef.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#574#575#0" expanded="true" />
-            <element signature="e#598#599#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonIdentityInfo/UserWithIdentity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#762#763#0" expanded="true" />
-            <element signature="e#786#787#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonIdentityInfo/ItemWithIdentity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonFilter/BeanWithFilter.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.2/gson-2.8.2.jar!/com/google/gson/JsonElement.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/CustomJacksonAnnotation/BeanWithCustomAnnotation.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.2/gson-2.8.2.jar!/com/google/gson/internal/$Gson$Preconditions.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="141">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/CustomJacksonAnnotation/CustomAnnotation.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.2/gson-2.8.2.jar!/com/google/gson/JsonPrimitive.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        <state relative-caret-position="92">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#777#778#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JacksonMixInAnnotations/Item5.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.2/gson-2.8.2.jar!/com/google/gson/internal/LinkedTreeMap.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        <state relative-caret-position="143">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#1067#1068#0" expanded="true" />
+            <element signature="e#1102#1103#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/DisableJacksonAnnotation/MyBean6.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.2/gson-2.8.2.jar!/com/google/gson/JsonObject.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="20" column="3" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+        <state relative-caret-position="160">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#1162#1163#0" expanded="true" />
+            <element signature="e#1227#1228#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/customjsonparser/src/test/java/com/json/parser/customjsonparser/AnnotationTest.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.2/gson-2.8.2.jar!/com/google/gson/internal/JsonReaderInternalAccess.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="431" lean-forward="true" selection-start-line="431" selection-end-line="431" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="170">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JsonIgnoreType/User.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.2/gson-2.8.2.jar!/com/google/gson/stream/JsonReader.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="127">
+          <caret line="1249" selection-start-line="1249" selection-end-line="1249" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#37875#38781#0" expanded="true" />
+            <element signature="e#38780#38781#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/exampleJacksonAnnotation/JacksonMixInAnnotations/MyMixInForIgnoreType.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.2/gson-2.8.2.jar!/com/google/gson/Gson.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1616">
+          <caret line="437" column="26" lean-forward="true" selection-start-line="437" selection-start-column="26" selection-end-line="437" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/parser/MyJacksonParser2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/parser/GsonParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="128" column="41" lean-forward="true" selection-start-line="127" selection-start-column="7" selection-end-line="129" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/parser/MyJacksonParser3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/parser/MyGsonParser2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/controller/MyRestController3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="36" column="21" lean-forward="true" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customjsonparser/src/main/java/com/json/parser/customjsonparser/parser/MyGsonParser3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="136" column="9" lean-forward="true" selection-start-line="136" selection-start-column="9" selection-end-line="136" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#829#830#0" expanded="true" />
+            <element signature="e#882#883#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

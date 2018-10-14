@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
 import java.io.IOException;
 @Component
 @Log4j2
-public class MyJacksonParser {
+public class MyJacksonParser2 {
 
     public void parseWithObjectMapper(String json) throws IOException {
         ObjectMapper objectMapper = new ObjectMapper();

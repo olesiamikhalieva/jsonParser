@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/customjsonparser/customjsonparser.iml" filepath="$PROJECT_DIR$/customjsonparser/customjsonparser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customjsonparser/customjsonparser.iml" filepath="$PROJECT_DIR$/customjsonparser/customjsonparser.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/superStore.iml" filepath="$PROJECT_DIR$/.idea/superStore.iml" />
     </modules>
   </component>

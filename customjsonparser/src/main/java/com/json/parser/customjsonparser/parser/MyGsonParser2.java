@@ -13,7 +13,7 @@ import java.util.*;
 
 @Component
 @Log4j2
-public class MyGsonParser {
+public class MyGsonParser2 {
 
     @Autowired
     private Gson gson;
@@ -53,6 +53,7 @@ public class MyGsonParser {
 
 
     public Object createJson() {
+
         List<Integer> code = new ArrayList<>(Arrays.asList(12345, 2345));
         List<Integer> phoneNumbers = new ArrayList<>(Arrays.asList(123456, 987654));
         List<String> cities = new ArrayList<>(Arrays.asList("Los Angeles", "New York"));

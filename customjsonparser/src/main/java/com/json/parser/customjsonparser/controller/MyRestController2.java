@@ -1,7 +1,7 @@
 package com.json.parser.customjsonparser.controller;
 
-import com.json.parser.customjsonparser.parser.MyGsonParser;
-import com.json.parser.customjsonparser.parser.MyJacksonParser;
+import com.json.parser.customjsonparser.parser.MyGsonParser2;
+import com.json.parser.customjsonparser.parser.MyJacksonParser2;
 import lombok.extern.log4j.Log4j2;
 import org.apache.commons.io.IOUtils;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -15,38 +15,38 @@ import java.io.IOException;
 
 @Log4j2
 @RestController
-@RequestMapping("/my")
-public class MyRestController {
+@RequestMapping("/my/2")
+public class MyRestController2 {
 
     @Autowired
-    private MyGsonParser myGsonParser;
+    private MyGsonParser2 myGsonParser2;
     @Autowired
-    private MyJacksonParser myJacksonParser;
+    private MyJacksonParser2 myJacksonParser2;
 
 
     @PostMapping("/jackson/parse")
     public String parseJacksonJson(HttpServletRequest request) throws IOException {
         String strJson = getStringJsonFromRequest(request);
-        myJacksonParser.parseWithObjectMapper(strJson);
+        myJacksonParser2.parseWithObjectMapper(strJson);
         return "ok";
     }
 
     @GetMapping("/gson/createJson")
     public Object getJson() {
-        return myGsonParser.createJson();
+        return myGsonParser2.createJson();
     }
 
     @PostMapping("/gson/parse/map")
     public String parse1(HttpServletRequest request) {
         String strJson = getStringJsonFromRequest(request);
-        myGsonParser.parseJsonWithMap(strJson);
+        myGsonParser2.parseJsonWithMap(strJson);
         return "ok";
     }
 
     @PostMapping("/gson/parse/jsonParser")
     public String parse2(HttpServletRequest request) {
         String strJson = getStringJsonFromRequest(request);
-        myGsonParser.parseJsonWithJsonParser(strJson);
+        myGsonParser2.parseJsonWithJsonParser(strJson);
         return "ok";
     }
 

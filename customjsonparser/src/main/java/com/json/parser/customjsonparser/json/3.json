@@ -1,0 +1,12 @@
+{
+  "token": "token_boken",
+  "request_id": "simple_request",
+  "data": {
+    "settings": {
+      "desktop_id": "abc1234hj",
+      "process_id": "java_proc",
+      "class_id": "425"
+    }
+
+  }
+}
