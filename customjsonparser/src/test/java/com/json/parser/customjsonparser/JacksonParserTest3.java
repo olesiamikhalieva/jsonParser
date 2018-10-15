@@ -1,6 +1,6 @@
 package com.json.parser.customjsonparser;
 
-import com.json.parser.customjsonparser.parser.MyGsonParser3;
+import com.json.parser.customjsonparser.parser.MyJacksonParser3;
 import org.hamcrest.collection.IsMapContaining;
 import org.junit.Test;
 
@@ -12,10 +12,10 @@ import static org.hamcrest.CoreMatchers.not;
 import static org.hamcrest.MatcherAssert.assertThat;
 
 
-public class GsonParserTest3 {
+public class JacksonParserTest3 {
 
 
-    private static MyGsonParser3 myGsonParser = new MyGsonParser3();
+    private static MyJacksonParser3 myJacksonParser3 = new MyJacksonParser3();
 
     private static String json = "{\n" +
             " \"token\": \"token_boken\",\n" +
@@ -44,21 +44,21 @@ public class GsonParserTest3 {
     @Test
     //1. Test equal, ignore order
     public void testParser() {
-        Map<String, String> map1 = myGsonParser.parseJson(json);
+        Map<String, String> map1 = myJacksonParser3.parseJson(json);
         assertThat(map1, is(createExpectedMap()));
     }
 
     @Test
     //2. Test size
     public void testParserSize() {
-        Map<String, String> map1 = myGsonParser.parseJson(json);
+        Map<String, String> map1 = myJacksonParser3.parseJson(json);
         assertThat(map1.size(), is(5));
     }
 
     @Test
     //3. Test map entry, best!
     public void testParserEntry() {
-        Map<String, String> map1 = myGsonParser.parseJson(json);
+        Map<String, String> map1 = myJacksonParser3.parseJson(json);
         assertThat(map1, IsMapContaining.hasEntry("setting.class_id", "425"));
         assertThat(map1, not(IsMapContaining.hasEntry("r", "ruby")));
     }
@@ -66,14 +66,14 @@ public class GsonParserTest3 {
     @Test
     //4. Test map key
     public void testParserKey() {
-        Map<String, String> map1 = myGsonParser.parseJson(json);
+        Map<String, String> map1 = myJacksonParser3.parseJson(json);
         assertThat(map1, IsMapContaining.hasKey("token"));
     }
 
     @Test
     //5. Test map value
     public void testParserValue() {
-        Map<String, String> map1 = myGsonParser.parseJson(json);
+        Map<String, String> map1 = myJacksonParser3.parseJson(json);
         assertThat(map1, IsMapContaining.hasValue("425"));
     }
 
