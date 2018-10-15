@@ -12,7 +12,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import javax.servlet.http.HttpServletRequest;
 import java.io.IOException;
-import java.util.HashMap;
 import java.util.Map;
 import java.util.TreeMap;
 
@@ -28,7 +27,7 @@ public class MyRestController3 {
     @Autowired
     private MyJacksonParser3 myJacksonParser;
 
-    private static Map<String, String> myMap;
+    private static Map<String, String> myMap = new TreeMap<>();
 
     @PostMapping("/gson/parse")
     public Map<String, String> parseGsonJson(HttpServletRequest request) {
@@ -39,8 +38,16 @@ public class MyRestController3 {
 
     @GetMapping("/gson/create")
     public Object getJson() {
+        myMap.forEach((s, s2) -> System.out.println(s+"---->"+s2));
         log.info(myGsonParser.createJson(myMap));
         return myGsonParser.createJson(myMap);
+    }
+
+    @PostMapping("jackson/parse")
+    public Map<String, String> parseJacksonJson(HttpServletRequest request) {
+        String strJson = getStringJsonFromRequest(request);
+        myMap = myJacksonParser.parseJson(strJson);
+        return myMap;
     }
 
     private String getStringJsonFromRequest(HttpServletRequest request) {

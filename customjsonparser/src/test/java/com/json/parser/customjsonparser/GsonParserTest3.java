@@ -14,7 +14,6 @@ public class GsonParserTest3 {
     @Autowired
     private MyGsonParser3 myGsonParser;
 
-
     private static String json  = "{\"token\": \"token_boken\",\"request_id\": \"simle_request\",\"data\": {\"settings\": {desktop_id\": \"abc1234hj\",\"process_id\": \"java_proc\",\"class_id\": \"425\"}}}";
 
     @Test
